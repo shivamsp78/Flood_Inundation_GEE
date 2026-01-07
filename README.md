@@ -1,4 +1,4 @@
-# Sentinel-1 Flood Mapping of Bhagalpur District (India)
+# Sentinel-1 Flood Mapping
 
 ## Overview
 This repository contains a Google Earth Engine (GEE) JavaScript code for detecting and mapping flood-affected areas in Bhagalpur district, Bihar, India, using Sentinel-1 SAR (VV polarization) data.
