@@ -29,6 +29,4 @@ This repository contains a Google Earth Engine (GEE) JavaScript code for detecti
 3. Click **Run**
 4. Exported files will appear in Google Drive
 
-## Author
-Shivam Priyadarshi  
-Department of Geography
+
